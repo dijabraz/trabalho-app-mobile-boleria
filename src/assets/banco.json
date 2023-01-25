@@ -1,0 +1,49 @@
+{
+  "lista": [
+    {
+      "produto": "Bolo de Fubá",
+      "quantidade": "3 ovos 200ml óleo 250ml leite integral 200 gramas açúcar refinado/ 1 xícara 200 gramas farinha de trigo/ 1 xícara 150 gramas fubá 1 colher (sopa) fermento",
+      "receita": "Primeiramente, no liquidificador adicione os ovos, açúcar, óleo, leite e o fubá, e bata por aproximadamente uns 4 minutos. Em seguida adicione a farinha e o fermento em pó, e bata tudo até que fique uma massa homogênea. Por fim, despeje em uma forma já untada e enfarinhada e leve ao forno. Leve para assar no forno pré-aquecido 180 graus, leva de 40-45 minutos para assar.",
+      "imagem": "https://p7m4z9n9.stackpathcdn.com/wp-content/uploads/2020/01/bolocaseiro-fuba-768x660.jpg",
+      "id": 3
+    },
+    {
+      "produto": "Bolo de Limão",
+      "quantidade": " 4 ovos 2 xícaras farinha de trigo ou 440g 1 xícara e meia açúcar refinado ou 330g 200ml óleo 150ml suco de limão 1 colher (sopa) fermento em pó Cobertura brigadeiro de limão  1 leite condensado 1 creme de leite 1 colher de café manteiga ou margarina 1 colher de sopa pó de limão",
+      "receita": "  No liquidificador coloque os ovos, açúcar, óleo, e suco de limão, bata até que tudo se misture bem. Após isso, passe essa massa para um recipiente grande e vá acionando a farinha e fermento aos poucos, misture muito bem. Despeje em uma forma já untada e enfarinhada Em uma panela adicione todos os ingredientes do brigadeiro de limão, depois leve ao fogo baixo para médio e mexa sem parar até o ponto de cobertura e despeje em cima do bolo quente.",
+      "imagem": "https://p7m4z9n9.stackpathcdn.com/wp-content/uploads/2020/01/bolodelimaocompleto-768x576.jpg",
+      "id": 4
+    },
+    {
+      "produto": "Bolo Caseiro com Goiaba",
+      "quantidade": "1 ovo 1 xícara (chá) leite ou 240ml 1/2 xícara óleo ou 120ml 1 xícara (chá) açúcar 1 xícara (chá) farinha 1 xícara (chá) fubá 1 colher (sopa) fermento 150g goiabada cortada em cubos pequenos",
+      "receita": "No liquidificador vamos bater o leite, o óleo, o ovo e o açúcar. Aos poucos vamos acrescentando a farinha já misturada com fubá e a colher de fermento. Coloque a massa em uma forma untada e por cima jogue os cubos de goiabada. O bolo já ficará pronto com a goiabada derretida, mas se quiser pode colocar uma calda de goiabada por cima.",
+      "imagem": "https://p7m4z9n9.stackpathcdn.com/wp-content/uploads/2020/01/bolocomgoiabada.jpg",
+      "status": false,
+      "id": 5
+    },
+    {
+      "produto": "Bolo de Banana",
+      "quantidade": "3 colheres de margarina 4 ovos inteiros 1 xícara e meia de açúcar 2 xícaras e meia de farinha de trigo 1 pitada de sal 5 bananas amassadas 1 colher de fermento 1 xícara de chá de leite",
+      "receita": "Primeiramente, na batedeira ou liquidificador,  misture a margarina com açúcar e bata até obter um creme branco.  Logo em seguida, vá acrescentando os ovos um por um, em seguida vá intercalando a farinha com o leite e por último acrescente as bananas amassadas e o fermento.  Por fim, Coloque em uma forma untada, e leve para assar no forno pré-aquecido 180 graus.",
+      "imagem": "https://p7m4z9n9.stackpathcdn.com/wp-content/uploads/2020/01/bolodebananacaseirinho-768x403.jpg",
+      "status": false,
+      "id": 6
+    },
+    {
+      "produto": "Bolo Caseiro de Laranja",
+      "quantidade": "3 gemas 3 claras em neve (ponto firme) 1 laranja grande sem casca 1 xícara (chá) óleo 2 xícaras (chá) açúcar 2 xícaras (chá) farinha de trigo 1 colher (sopa) fermento",
+      "receita": " Leve ao liquidificador a laranja, (sem sementes), as gemas e o óleo e bata por aproximadamente 3 minutos e reserve. Na batedeira, bata a farinha, o açúcar e acrescente o que foi batido no liquidificador. Por último misture as claras em neve e o fermento. Asse em forno pré-aquecido por 35 minutos.",
+      "imagem": "https://p7m4z9n9.stackpathcdn.com/wp-content/uploads/2020/01/bolodelaranja4-768x768.jpg",
+      "status": false,
+      "id": 7
+    },
+    {
+      "produto": "Bolo de Churros",
+      "quantidade": "6 ovos pequenos ou 320 gramas 400 gramas farinha de trigo 400 gramas açúcar refinado 200 gramas margarina gelada sem sal 1 colher (sopa) essência de baunilha 200ml leite integral 1 colher (sopa) canela em pó 5 gramas de fermento químico em pó 1 colher (sopa) essência de baunilha",
+      "receita": "Primeiramente, coloque na batedeira os ovos, açúcar e a margarina gelada e bata em velocidade alta até dobrar de volume.  Em seguida coloque o leite e bata mais um pouco, nesse momento a massa fica com aspecto de talhada. Não se preocupe é assim mesmo, vai dar certo no final.  Então, agora vá adicionando a farinha, a canela e o fermento aos poucos e vá misturando delicadamente do meio para as bordas, depois adicione a essência de baunilha e bata em velocidade máxima na batedeira por mais 10 segundos, não se preocupe pelo fermento.  Por fim, leve ao forno e depois coloque uma calda de doce de leite. Faça nossa receita de recheio de doce de leite e use como calda nesse bolo, fica ótima.",
+      "imagem": "https://th.bing.com/th/id/OIP.yvB4RC01ohuKSyCpEquiSwHaE8?pid=ImgDet&rs=1",
+      "id": 8
+    }
+  ]
+}
